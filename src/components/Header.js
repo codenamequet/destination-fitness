@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import {Navbar, NavItem} from 'react-materialize'
 import '../styles/Header.css'
-import {BrowserRouter as Link} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 
 class Header extends Component {
     constructor(props) {
