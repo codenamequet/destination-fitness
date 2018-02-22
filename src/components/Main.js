@@ -7,9 +7,9 @@ class Main extends Component {
     render () {
         return (
             <div>
-                <Header />
+                {/* <Header /> */}
                 <Exercise />
-                <Footers />
+                {/* <Footers /> */}
             </div>
         )
     }

@@ -37,7 +37,7 @@ import { Card, Button, Row, Input } from 'react-materialize'
                 <div className='container'>
                     <div className='border' style={{padding: 10}}>
                         <div className='container firebaseui-auth-container' style={{width: 450, height: 500}}>
-                        <div id="loader">Loading...
+                        <div id="loader">
                             <Row className='#f5f5f5 grey lighten-4' style={{padding: 30}}>
                                 <Input onChange = {this.handleChange} className='#ffca28' type="text" name="email" placeholder="Email" s={12} />
                                 <Input onChange = {this.handleChange} type="password" name="password" placeholder="Password" s={12} />
