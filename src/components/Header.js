@@ -30,6 +30,7 @@ class Header extends Component {
                             <Route path='/register' component={Register} />
                             <Route path='/login' component={Login} />
                             <Route path='/home' component={Main} />
+                            <Route path="/" component={Main} />
                         </Switch>
                     </div>
                     </div>

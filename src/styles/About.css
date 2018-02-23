@@ -1,0 +1,5 @@
+.running {
+    background-image: url('../img/running.jpg');
+    background-size: cover;
+    height: 300px;
+}
