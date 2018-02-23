@@ -64,6 +64,7 @@ class ExerciseLog extends Component {
 
     onSubmitQuery (e) {
         // e.preventDefault()
+        console.log(e.target.value)
         console.log('working')
         // this.onSubmitQuery(this.props.query)
     }
